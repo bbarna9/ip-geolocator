@@ -1,0 +1,57 @@
+/home/barna/.sdkman/candidates/java/current/bin/javadoc
+@options
+@packages
+--class-path
+'/home/barna/.m2/repository/com/google/guava/guava/30.0-jre/guava-30.0-jre.jar:/home/barna/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/barna/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/barna/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/barna/.m2/repository/org/checkerframework/checker-qual/3.5.0/checker-qual-3.5.0.jar:/home/barna/.m2/repository/com/google/errorprone/error_prone_annotations/2.3.4/error_prone_annotations-2.3.4.jar:/home/barna/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/home/barna/.m2/repository/commons-io/commons-io/2.8.0/commons-io-2.8.0.jar:/home/barna/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.12.1/jackson-databind-2.12.1.jar:/home/barna/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.12.1/jackson-annotations-2.12.1.jar:/home/barna/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.12.1/jackson-core-2.12.1.jar:/home/barna/.m2/repository/org/apache/commons/commons-lang3/3.11/commons-lang3-3.11.jar:/home/barna/.m2/repository/org/projectlombok/lombok/1.18.18/lombok-1.18.18.jar'
+-encoding
+'UTF-8'
+-private
+--release
+11
+-sourcepath
+'/home/barna/Szoftverfejelsztés/ip-geolocator/src/main/java:/home/barna/Szoftverfejelsztés/ip-geolocator/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2021. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'ip-geolocator 1.0 API'
+-link
+'https://javadoc.io/doc/com.fasterxml.jackson.core/jackson-databind/2.12.1'
+-link
+'https://commons.apache.org/proper/commons-io/apidocs'
+-link
+'https://commons.apache.org/proper/commons-lang/apidocs'
+-linkoffline
+'https://docs.oracle.com/en/java/javase/11/docs/api' '/home/barna/Szoftverfejelsztés/ip-geolocator/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'ip-geolocator 1.0 API'
+geolocator
+geolocator
+/home/barna/Szoftverfejelsztés/ip-geolocator/src/main/java = 1579701385000
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/generated-sources/annotations = 1614714376717
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/stylesheet.css = 1615657925972
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/package-search-index.js = 1615657925936
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/script.js = 1615657925972
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/allpackages-index.html = 1615657925956
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/element-list = 1615657925828
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/deprecated-list.html = 1615657925876
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/member-search-index.js = 1615657925936
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/jquery-ui.overrides.css = 1615657925988
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/index-all.html = 1615657925944
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/allclasses-index.html = 1615657925948
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/type-search-index.js = 1615657925936
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/module-search-index.js = 1615657925936
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/constant-values.html = 1615657925848
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/tag-search-index.js = 1615657925936
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/overview-tree.html = 1615657925864
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/search.js = 1615657925976
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/help-doc.html = 1615657925964
+/home/barna/Szoftverfejelsztés/ip-geolocator/target/site/apidocs/index.html = 1615657925956
